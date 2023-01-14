@@ -1,0 +1,25 @@
+body {
+    background-image: url(img/mike-marrah-vKNjdRBqep0-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.feliz {
+    color:white;
+}
+
+.naza {
+    display: flex;
+    width: 20px;
+}
+
+.naza img {
+    width: 350px;
+    right: 10px;
+}
+
+.texto {
+    font-size: 20px;
+    margin-left: 10px;
+}
